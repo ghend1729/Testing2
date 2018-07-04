@@ -1,0 +1,6 @@
+\\rivendell.physics.ox.ac.uk\user\students\2015\sjoh4248\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+\\rivendell.physics.ox.ac.uk\user\students\2015\sjoh4248\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+\\rivendell.physics.ox.ac.uk\user\students\2015\sjoh4248\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+\\rivendell.physics.ox.ac.uk\user\students\2015\sjoh4248\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+\\rivendell.physics.ox.ac.uk\user\students\2015\sjoh4248\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+\\rivendell.physics.ox.ac.uk\user\students\2015\sjoh4248\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
